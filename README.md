@@ -217,4 +217,4 @@ OtsDJ is offered as a complete free version with all features and updates includ
 Get started today and elevate your DJing with OtsDJ — the ultimate software for mixing music and videos!
 
 ---
-**Last updated:** 2026-09-26 13:32:21 UTC
+**Last updated:** 2026-09-26 17:32:17 UTC
